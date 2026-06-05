@@ -1,0 +1,7 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+assembly	chromosome			contig_250 basecall_model=dna_r10.4.1_e8.2_400bps_hac@v4.2.0	13005	0.48742791234140714	5ba2ebbe47d988029057fd670bf09ea9	00590	KX242350	ISEc17	IS3	1263	1	1263	4377	5634						
+assembly	chromosome			contig_307 basecall_model=dna_r10.4.1_e8.2_400bps_hac@v4.2.0	12974	0.5147217511946971	832ed7a0a84689ff851867d469a0d731	00528	MG860488	ISSen1	IS3	1312	1	1312	910	2235						
+assembly	chromosome			contig_242 basecall_model=dna_r10.4.1_e8.2_400bps_hac@v4.2.0	12186	0.5415230592483178	b6dd3303f0bb64351c35e6c2d813752b	00528	MG860488	ISSen1	IS3	1312	8	1312	1	1325						
+assembly	chromosome			contig_274 basecall_model=dna_r10.4.1_e8.2_400bps_hac@v4.2.0	5586	0.5304332259219477	fe3b71d9b93f202a46ba20273cc8fb6a	01399	CP016586.1	16s-rRNA	16S	1554	1	1554	311	1862						
+assembly	chromosome			contig_274 basecall_model=dna_r10.4.1_e8.2_400bps_hac@v4.2.0	5586	0.5304332259219477	fe3b71d9b93f202a46ba20273cc8fb6a	01400	CP016586.1	23s-rRNA	23S	3027	663	3027	2916	5281						
+assembly	chromosome			contig_241 basecall_model=dna_r10.4.1_e8.2_400bps_hac@v4.2.0	5460	0.46465201465201467	f5c4fb6040192418b94f711534a56745	00528	MG860488	ISSen1	IS3	1312	1	1312	632	1943						

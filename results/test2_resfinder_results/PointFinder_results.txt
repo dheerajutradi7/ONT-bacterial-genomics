@@ -1,0 +1,2 @@
+Mutation	Nucleotide change	Amino acid change	Resistance	PMID
+pmrA p.G15R	GGG -> AGG	G -> R	Colistin	19332669

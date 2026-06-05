@@ -1,0 +1,34 @@
+Chromosomal point mutations - Results
+Species: salmonella
+Genes: acrB, pmrA, pmrB, gyrA, gyrB, parC, parE, 16S-rrsD
+Mapping methode: blast
+
+
+Known Mutations
+
+excluded
+
+acrB
+No known mutations found in acrB
+
+pmrA
+Mutation	Nucleotide change	Amino acid change	Resistance	PMID
+pmrA p.G15R	GGG -> AGG	G -> R	Colistin	19332669
+
+pmrB
+No known mutations found in pmrB
+
+gyrA
+No known mutations found in gyrA
+
+gyrB
+No hit found
+
+parC
+No hit found
+
+parE
+No hit found
+
+16S-rrsD
+No known mutations found in 16S-rrsD

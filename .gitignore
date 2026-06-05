@@ -1,0 +1,9 @@
+work/
+wf-bacterial-genomes-demo.tar.gz
+wf-bacterial-genomes-demo/
+.nextflow/
+.nextflow.log*
+results/test1.bam
+results/test2.bam
+results/test1.bam.bai
+results/test2.bam.bai

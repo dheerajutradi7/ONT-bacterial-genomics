@@ -1,0 +1,3 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+aac(2')-Ic	100.00	546/546	100.0	1..546	contig_1	314726..315271	Gentamicin, Tobramycin, Dibekacin, Netilmicin	U72714
+erm(37)	100.00	540/540	100.0	1..540	contig_1	2232096..2232635	Erythromycin, Telithromycin, Lincomycin, Clindamycin	AL123456

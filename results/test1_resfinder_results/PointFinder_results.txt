@@ -1,0 +1,4 @@
+Mutation	Nucleotide change	Amino acid change	Resistance	PMID
+embA-promoter n.-11C>A	C -> A	Promoter mutations	Ethambutol	19209951
+embA-promoter n.-12C>T	C -> T	Promoter mutations	Ethambutol	19209951
+embA-promoter n.-16C>T	C -> T	Promoter mutations	Ethambutol	19209951

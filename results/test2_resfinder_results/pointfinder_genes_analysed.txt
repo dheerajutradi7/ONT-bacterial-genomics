@@ -1,0 +1,8 @@
+16S-rrsD
+acrB
+gyrA
+gyrB
+parC
+parE
+pmrA
+pmrB

@@ -1,0 +1,100 @@
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                               Aminoglycoside                                                                                               |
++-------------------+------------+--------------------------------+------------+-------------------------+----------+----------------------+-----------------------------------------------+-----------------+
+| Resistance gene   |   Identity | Alignment Length/Gene Length   |   Coverage | Position in reference   | Contig   | Position in contig   | Phenotype                                     | Accession no.   |
+|-------------------+------------+--------------------------------+------------+-------------------------+----------+----------------------+-----------------------------------------------+-----------------|
+| aac(2')-Ic        |        100 | 546/546                        |        100 | 1..546                  | contig_1 | 314726..315271       | Gentamicin, Tobramycin, Dibekacin, Netilmicin | U72714          |
++-------------------+------------+--------------------------------+------------+-------------------------+----------+----------------------+-----------------------------------------------+-----------------+
+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                 MLS - Macrolide, Lincosamide and Streptogramin B                                                                                  |
++-------------------+------------+--------------------------------+------------+-------------------------+----------+----------------------+------------------------------------------------------+-----------------+
+| Resistance gene   |   Identity | Alignment Length/Gene Length   |   Coverage | Position in reference   | Contig   | Position in contig   | Phenotype                                            | Accession no.   |
+|-------------------+------------+--------------------------------+------------+-------------------------+----------+----------------------+------------------------------------------------------+-----------------|
+| erm(37)           |        100 | 540/540                        |        100 | 1..540                  | contig_1 | 2232096..2232635     | Erythromycin, Telithromycin, Lincomycin, Clindamycin | AL123456        |
++-------------------+------------+--------------------------------+------------+-------------------------+----------+----------------------+------------------------------------------------------+-----------------+
+
+##################### aminoglycoside #####################
+aac(2')-Ic, ID: 100.00 %, Alignment Length/Gene Length: 546/546, Coverage: 100.0, Positions in reference: 1..546, Contig name: contig_1, Position: 314726..315271
+
+GTGCACACCCAGGTACACACGGCCCGCCTGGTCCACACCGCCGATCTTGACAGCGAGACC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GTGCACACCCAGGTACACACGGCCCGCCTGGTCCACACCGCCGATCTTGACAGCGAGACC
+
+CGCCAGGACATCCGTCAGATGGTCACCGGCGCGTTTGCCGGTGACTTCACCGAGACCGAC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CGCCAGGACATCCGTCAGATGGTCACCGGCGCGTTTGCCGGTGACTTCACCGAGACCGAC
+
+TGGGAGCACACGCTGGGTGGGATGCACGCCCTGATCTGGCATCACGGGGCGATCATCGCG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+TGGGAGCACACGCTGGGTGGGATGCACGCCCTGATCTGGCATCACGGGGCGATCATCGCG
+
+CATGCCGCGGTGATCCAGCGGCGACTGATCTACCGCGGCAACGCGCTGCGCTGCGGGTAC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCCGCGGTGATCCAGCGGCGACTGATCTACCGCGGCAACGCGCTGCGCTGCGGGTAC
+
+GTCGAAGGCGTTGCGGTGCGGGCGGACTGGCGGGGCCAACGCCTGGTGAGCGCGCTGTTG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GTCGAAGGCGTTGCGGTGCGGGCGGACTGGCGGGGCCAACGCCTGGTGAGCGCGCTGTTG
+
+GACGCCGTCGAGCAGGTGATGCGCGGCGCTTACCAGCTCGGAGCGCTCAGTTCCTCGGCG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GACGCCGTCGAGCAGGTGATGCGCGGCGCTTACCAGCTCGGAGCGCTCAGTTCCTCGGCG
+
+CGGGCCCGCAGACTGTACGCCTCACGCGGCTGGCTGCCCTGGCACGGCCCGACATCGGTA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CGGGCCCGCAGACTGTACGCCTCACGCGGCTGGCTGCCCTGGCACGGCCCGACATCGGTA
+
+CTGGCACCAACCGGTCCAGTCCGTACACCCGATGACGACGGAACGGTGTTCGTCCTGCCC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CTGGCACCAACCGGTCCAGTCCGTACACCCGATGACGACGGAACGGTGTTCGTCCTGCCC
+
+ATCGACATCAGCCTGGACACCTCGGCGGAGCTGATGTGCGATTGGCGCGCGGGCGACGTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATCGACATCAGCCTGGACACCTCGGCGGAGCTGATGTGCGATTGGCGCGCGGGCGACGTC
+
+TGGTAA
+||||||
+TGGTAA
+
+
+##################### macrolide #####################
+erm(37), ID: 100.00 %, Alignment Length/Gene Length: 540/540, Coverage: 100.0, Positions in reference: 1..540, Contig name: contig_1, Position: 2232096..2232635
+
+GTGTCCGCCCTCGGACGGTCGCGACGGGCATGGGGCTGGCACCGGCTCCATGACGAATGG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GTGTCCGCCCTCGGACGGTCGCGACGGGCATGGGGCTGGCACCGGCTCCATGACGAATGG
+
+GCAGCGCGGGTAGTCAGCGCGGCCGCAGTGCGGCCCGGTGAGCTCGTGTTTGACATCGGC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GCAGCGCGGGTAGTCAGCGCGGCCGCAGTGCGGCCCGGTGAGCTCGTGTTTGACATCGGC
+
+GCCGGCGAAGGGGCACTGACGGCGCATCTAGTGCGAGCGGGGGCGCGGGTGGTCGCCGTG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GCCGGCGAAGGGGCACTGACGGCGCATCTAGTGCGAGCGGGGGCGCGGGTGGTCGCCGTG
+
+GAGTTGCACCCGCGACGAGTCGGTGTCCTCCGCGAGCGATTCCCTGGCATTACCGTGGTG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GAGTTGCACCCGCGACGAGTCGGTGTCCTCCGCGAGCGATTCCCTGGCATTACCGTGGTG
+
+CACGCGGACGCCGCCTCGATCCGGTTGCCCGGCCGGCCGTTCCGGGTTGTGGCGAACCCG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CACGCGGACGCCGCCTCGATCCGGTTGCCCGGCCGGCCGTTCCGGGTTGTGGCGAACCCG
+
+CCGTACGGGATTTCGTCCCGCCTGCTGCGGACGCTGCTGGCACCCAACAGCGGGCTTGTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CCGTACGGGATTTCGTCCCGCCTGCTGCGGACGCTGCTGGCACCCAACAGCGGGCTTGTC
+
+GCGGCCGATCTCGTGCTGCAGCGAGCCCTCGTATGTAAATTCGCTTCTCGCAACGCGCGA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GCGGCCGATCTCGTGCTGCAGCGAGCCCTCGTATGTAAATTCGCTTCTCGCAACGCGCGA
+
+AGGTTCACCCTGACCGTCGGCCTCATGCTGCCACGGCGCGCGTTCCTGCCACCGCCGCAT
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+AGGTTCACCCTGACCGTCGGCCTCATGCTGCCACGGCGCGCGTTCCTGCCACCGCCGCAT
+
+GTGGATTCCGCGGTGCTCGTCGTCCGCCGCCGGAAGTGCGGTGACTGGCAGGGGCGGTAA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GTGGATTCCGCGGTGCTCGTCGTCCGCCGCCGGAAGTGCGGTGACTGGCAGGGGCGGTAA
+
+

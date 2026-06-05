@@ -1,0 +1,18 @@
+[
+   {
+      "id" : "test1",
+      "scheme" : "mycobacteria_2",
+      "filename" : "input_genome.fasta",
+      "alleles" : {
+         "S19" : "20",
+         "S7" : "19",
+         "S14Z" : "17",
+         "L16" : "22",
+         "S8" : "18",
+         "L35" : "15",
+         "L19" : "19",
+         "S12" : "20"
+      },
+      "sequence_type" : "215"
+   }
+]

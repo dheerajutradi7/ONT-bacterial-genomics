@@ -1,0 +1,3 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+qacD	99.45	1985/2004	98.80239520958084	1..1980	contig_1	4411882..4413866	Benzylkonium Chloride, Ethidium Bromide,  Chlorhexidine, Cetylpyridinium Chloride	M37888
+formA	100.00	1110/1110	100.0	1..1110	contig_1	498..1607	Formaldehyde	X73835

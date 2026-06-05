@@ -1,0 +1,2 @@
+filename	sample_name	n_seqs	n_bases	min_length	max_length	mean_quality	f_file_ok	f_stream_error	f_qual_missing	f_qual_truncated	f_unknown_error	r_record_ok	r_too_long	r_too_short	r_low_quality	r_dust_masked
+test1.filtered.fastq.gz	test1	22030	178850239	1002	25878	8.98	1	0	0	0	0	22030	0	0	0	0

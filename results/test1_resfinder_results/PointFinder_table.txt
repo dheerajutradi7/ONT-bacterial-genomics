@@ -1,0 +1,120 @@
+Chromosomal point mutations - Results
+Species: mycobacterium_tuberculosis
+Genes: Rv0678, ahpC-promoter-size-180bp, alr, drrA, eis-promoter-size-119bp, embA-promoter-size-115bp, embB, embC, embR, ethA-promoter-size-74bp, ethR, fabG1-promoter-size-223bp, folC, gidB, gyrA, gyrB, idsA2-promoter-size-181bp, inhA, iniA, kasA, katG-promoter-size-107bp, nuoA-promoter-size-365bp, panD, pncA-promoter-size-107bp, ribD, rplC, rpoB, rpoC, rpsA, rpsL, rrl, rrs, thyA, thyX-promoter-size-259bp, tlyA, ubiA
+Mapping methode: blast
+
+
+Known Mutations
+
+excluded
+
+Rv0678
+No mutations found in Rv0678
+
+alr
+No mutations found in alr
+
+drrA
+No mutations found in drrA
+
+embB
+No mutations found in embB
+
+embC
+No mutations found in embC
+
+embR
+No mutations found in embR
+
+ethR
+No mutations found in ethR
+
+folC
+No mutations found in folC
+
+gidB
+No mutations found in gidB
+
+gyrA
+No mutations found in gyrA
+
+gyrB
+No mutations found in gyrB
+
+inhA
+No mutations found in inhA
+
+iniA
+No mutations found in iniA
+
+kasA
+No mutations found in kasA
+
+panD
+No mutations found in panD
+
+ribD
+No mutations found in ribD
+
+rplC
+No mutations found in rplC
+
+rpoB
+No mutations found in rpoB
+
+rpoC
+No mutations found in rpoC
+
+rpsA
+No mutations found in rpsA
+
+rpsL
+No mutations found in rpsL
+
+rrl
+No mutations found in rrl
+
+rrs
+No mutations found in rrs
+
+thyA
+No mutations found in thyA
+
+tlyA
+No mutations found in tlyA
+
+ubiA
+No mutations found in ubiA
+
+ahpC-promoter
+No mutations found in ahpC-promoter
+
+eis-promoter
+No mutations found in eis-promoter
+
+embA-promoter
+Mutation	Nucleotide change	Amino acid change	Resistance	PMID
+embA-promoter n.-11C>A	C -> A	Promoter mutations	Ethambutol	19209951
+embA-promoter n.-12C>T	C -> T	Promoter mutations	Ethambutol	19209951
+embA-promoter n.-16C>T	C -> T	Promoter mutations	Ethambutol	19209951
+
+ethA-promoter
+No known mutations found in ethA-promoter
+
+fabG1-promoter
+No mutations found in fabG1-promoter
+
+idsA2-promoter
+No mutations found in idsA2-promoter
+
+katG-promoter
+No mutations found in katG-promoter
+
+nuoA-promoter
+No mutations found in nuoA-promoter
+
+pncA-promoter
+No mutations found in pncA-promoter
+
+thyX-promoter
+No mutations found in thyX-promoter

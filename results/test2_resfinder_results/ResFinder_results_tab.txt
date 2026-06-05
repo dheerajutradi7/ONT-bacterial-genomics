@@ -1,0 +1,2 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+aac(6')-Iaa	98.63	438/438	100.0	1..438	contig_312	4321..4758	Amikacin, Tobramycin	NC_003197

@@ -1,0 +1,18 @@
+{
+    "barcode": "barcode02",
+    "type": "test_sample",
+    "run_ids": [
+        "36d9088ec8d9d3c496fdc6063cebbe91eda03663"
+    ],
+    "basecall_models": [
+        "dna_r10.4.1_e8.2_400bps_hac@v4.2.0"
+    ],
+    "alias": "test2",
+    "group_key": {
+        "groupTarget": "test2",
+        "groupSize": 1
+    },
+    "n_fastq": 1,
+    "group_index": "test2_0",
+    "n_seqs": 7076
+}

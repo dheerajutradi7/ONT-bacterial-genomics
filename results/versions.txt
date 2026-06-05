@@ -1,0 +1,15 @@
+bakta,1.11.4
+medaka,2.2.0
+bcftools,1.21
+mlst,2.23.0
+sourmash,4.9.4
+mob_recon,3.1.9
+resfinder,4.7.2
+SeqSero2,1.2.1
+pysam,0.23.3
+fastcat,0.22.1
+bamstats,0.22.1
+mosdepth,0.3.11
+flye,2.9.5-b1801
+dnaapler,1.2.0
+pomoxis,0.3.16
