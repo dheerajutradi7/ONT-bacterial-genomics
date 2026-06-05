@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 # Bacterial Genome Assembly & AMR Analysis using Oxford Nanopore Sequencing
 
+For a complete setup guide, see the [Walkthrough](Walkthrough.md).
+
 ## Project Overview
 Complete bioinformatics pipeline for bacterial genome assembly, annotation, and antimicrobial resistance (AMR) detection using Oxford Nanopore Technology (ONT) sequencing data.
 
