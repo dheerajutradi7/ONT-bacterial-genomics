@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bacterial Genome Assembly & AMR Analysis using Oxford Nanopore Sequencing
 
 ## Project Overview
@@ -31,3 +32,7 @@ Complete bioinformatics pipeline for bacterial genome assembly, annotation, and 
 
 ## Author
 Dheeraj Kumar — Bioinformatics Analyst
+=======
+# ONT-bacterial-genomics
+Complete bacterial genome assembly, AMR detection and comparative analysis using Oxford Nanopore Sequencing (ONT) | Nextflow | R | Linux
+>>>>>>> c79e92c8fd67525e46755494b7927dca397c2098

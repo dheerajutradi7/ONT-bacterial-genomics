@@ -7,3 +7,8 @@ results/test1.bam
 results/test2.bam
 results/test1.bam.bai
 results/test2.bam.bai
+results/test1/test1.filtered.fastq.gz
+results/test2/test2.filtered.fastq.gz
+results/**/*.fastq.gz
+results/**/*.fasta.gz
+results/**/*.bam

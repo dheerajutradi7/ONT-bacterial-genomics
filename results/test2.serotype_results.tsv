@@ -1,2 +1,0 @@
-Sample name	Output directory	Input files	O antigen prediction	H1 antigen prediction(fliC)	H2 antigen prediction(fljB)	Predicted identification	Predicted antigenic profile	Predicted serotype	Note
-test2	/mbd-data/new/ONT-project/work/0f/09af3cd47774f42e30f0b0da63472f/output	input_genome.fasta	13	f,g	-	Salmonella enterica subspecies enterica (subspecies I)	13:f,g:-	Havana	

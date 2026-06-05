@@ -1,3 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
-assembly	chromosome	-	-	contig_1 basecall_model=dna_r10.4.1_e8.2_400bps_hac@v4.2.0	4415538	0.6559207507669507	0e3a7c2bcc839f25d8c5a70cb3561bc1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-assembly	chromosome	-	-	contig_2 basecall_model=dna_r10.4.1_e8.2_400bps_hac@v4.2.0	113220	0.39315491962550786	a25e22592a9d9c29519021d5e120491c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
