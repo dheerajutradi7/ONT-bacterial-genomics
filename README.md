@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Bacterial Genome Assembly & AMR Analysis using Oxford Nanopore Sequencing
 
 For a complete setup guide, see the [Walkthrough](Walkthrough.md).
