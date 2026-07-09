@@ -4,6 +4,7 @@ For a complete setup guide, see the [Walkthrough](Walkthrough.md).
 
 ## Project Overview
 Complete bioinformatics pipeline for bacterial genome assembly, annotation, and antimicrobial resistance (AMR) detection using Oxford Nanopore Technology (ONT) sequencing data.
+This project uses publicly available demo/reference datasets (test1, test2) to build and demonstrate the pipeline as a self-directed learning exercise in bioinformatics workflows.
 
 ## Samples Analyzed
 | Sample | Species | Sequence Type |
